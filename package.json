@@ -1,0 +1,14 @@
+{
+  "name": "WikiPaint",
+  "description": "Collaborative node.js drawing app",
+  "version": "0.0.1",
+  "author": "Nancy Richardson",
+  "dependencies": {
+  },
+  "engines": {
+  "node": ">= 1.3.24"
+  },
+  "devDependencies": {
+  "jake": "latest"
+  }
+}
