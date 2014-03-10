@@ -9,6 +9,7 @@
   "node": ">= 1.3.24"
   },
   "devDependencies": {
-  "jake": "latest"
+  "jake": "latest",
+  "jake-jshint": "latest"
   }
 }
