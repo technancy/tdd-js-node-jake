@@ -18,7 +18,13 @@ Engineering Tasks:
 / static code analysis (Lint)
 / continuous integration
     / make build fail when Lint fails
+
+
 * server-side testing
+  - Choose framework
+  - Abstract the framework
+  - Swap out a different framework to make sure adstraction works
+
 - client-side testing
 
 
