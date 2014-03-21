@@ -1,4 +1,4 @@
-/* Copyright (c) 2012 James Shore - See README.txt for license */
+/* Copyright (c) 2012 James Shore - See README.txt for license 
 "use strict";
 
 var expect = require("expect.js");
@@ -221,4 +221,4 @@ describe("Error reporting", function() {
   // To do: Some edge cases that I don't know how to trigger, so haven't tested or supported:
   // 1- two reasons in a row (line number & evidence undefined); may not occur in current version
   // 2- null element at end of errors array; occurs when JSHint catches exception
-});
+}); */
