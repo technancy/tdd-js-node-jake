@@ -14,11 +14,14 @@ User Stories:
 - marketing copy
 
 Engineering Tasks:
-* automated build
-- static code analysis (Lint)
-- continuous integration
+/ automated build
+/ static code analysis (Lint)
+* continuous integration
+    - make build fail when Lint fails
 - server-side testing
 - client-side testing
+
+
 
 
 To build on Windows:
