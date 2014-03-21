@@ -16,9 +16,9 @@ User Stories:
 Engineering Tasks:
 / automated build
 / static code analysis (Lint)
-* continuous integration
-    - make build fail when Lint fails
-- server-side testing
+/ continuous integration
+    / make build fail when Lint fails
+* server-side testing
 - client-side testing
 
 
