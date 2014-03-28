@@ -22,12 +22,10 @@ Engineering Tasks:
 
 * server-side testing
   - Choose framework
-  - Abstract the framework
-  - Swap out a different framework to make sure adstraction works
-
 - client-side testing
 
-
+Future Tasks:
+  - Abstract the framework (Swap out a different framework to make sure adstraction works)
 
 
 To build on Windows:
